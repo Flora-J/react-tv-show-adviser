@@ -3,7 +3,14 @@
   font-size: 35px;
 }
 
-.rating {}
+.rating {
+  margin-top: 3px;
+  margin-left: 5px;
+}
+
+.rating_container {
+  display: flex;
+}
 
 .overview {
   font-family: Roboto;
