@@ -1,5 +1,7 @@
 # React TV show adviser
 
+Application Web affichant les séries recommandées par rapport à une série recherché.
+
 ## Getting Started
 
 In the project directory, you can run:
